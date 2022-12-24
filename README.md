@@ -1,10 +1,10 @@
 <h1> Masoud Mahdavi </h1>
 
-<a href="https://www.twitter.com/MasoudMahdavi1" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/hejazizo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://t.me/amir19970801"><img
+src=""
 />
 
-<!-- </a> <a href="https://www.github.com/hejazizo" target="_blank" rel="noreferrer"><img
+<!-- </a> <a href="https://github.com/Masoud-Mahdavii" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/hejazizo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhejazizo%2Fhejazizo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
