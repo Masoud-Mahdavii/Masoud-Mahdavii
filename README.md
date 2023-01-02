@@ -14,7 +14,7 @@ src="https://img.shields.io/github/followers/hejazizo?logo=github&style=for-the-
 [![Github](https://github.com/Masoud-Mahdavii)
 
 - 🤔 I’m currently reading [Python, Machine Learning, Git](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html). Check it out if interested..
-- 📫 How to reach me: masoudmahdavi1993@gmail.com
+- 📫 How to reach me: "masoudmahdavi1993@gmail.com"
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="hejazizo" />
